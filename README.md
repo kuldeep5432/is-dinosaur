@@ -6,4 +6,5 @@ Usage
 Import and call the function passing it a string
 
 const dino = require("is-dinosaur")
+
 console.log(dino.isDinosaur("dinosaur"))
